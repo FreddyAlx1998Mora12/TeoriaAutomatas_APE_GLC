@@ -131,8 +131,8 @@ pip install -r requirements.txt
 
 **Contenido de `requirements.txt`:**
 ```text
-flask==3.0.3
-flask-cors==4.0.0
+Flask==3.1.3
+flask-cors==6.0.2
 ```
 
 ### 3. Frontend (Vite + React)
